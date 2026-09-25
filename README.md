@@ -32,3 +32,5 @@ El objetivo principal de este desarrollo es proporcionar una interfaz web funcio
 * **Back-end:** Node.js
 
 * **Base de Datos & Auth:** Supabase (PostgreSQL BaaS)
+
+* **Supabase:** https://afojhjsscrvnlgltosek.supabase.co 
